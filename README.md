@@ -1,7 +1,10 @@
-# Program # X
-Name:  
-Cosc 4735
+# Program #2
+Easton Tuttle
 
-Description:  (how to run the program, phone/emulator screen size, android version ie 7.0)
+COSC 4735
+
+Description: 
+
+Google Pixel 2 | 5-inch screen with a 1920x1080 resolution | Android version 9.0
 
 Anything that doesn't work:
