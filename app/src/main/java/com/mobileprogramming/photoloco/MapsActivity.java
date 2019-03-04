@@ -72,8 +72,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        Bitmap bitmap = (Bitmap) data.getExtras().get("data");
+       // super.onActivityResult(requestCode, resultCode, data);
+       // Bitmap bitmap = (Bitmap) data.getExtras().get("data");
     }
 
     private void dispatchTakePictureIntent() {
