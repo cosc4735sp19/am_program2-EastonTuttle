@@ -19,4 +19,8 @@
         android:clickable="true"
         android:layout_gravity="bottom |end"
         android:src="@android:drawable/ic_menu_camera" />
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </FrameLayout>
