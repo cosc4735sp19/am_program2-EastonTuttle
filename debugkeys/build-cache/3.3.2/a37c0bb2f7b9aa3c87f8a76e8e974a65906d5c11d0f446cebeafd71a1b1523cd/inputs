@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\tuttl\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\38a57539a54f906e68a58c3f63ca8623\jars\classes.jar
+FILE.hash=68565265db34e6234c182a26d385d7a41bed6a73065a817571ba8b7b1c23be00
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=19
+IS_DEBUGGABLE=true
