@@ -115,7 +115,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             Bitmap icon = Bitmap.createScaledBitmap(bitmap, 100, 100, false);
             LatLng currentLocation = new LatLng(mLastKnownLocation.getLatitude(), mLastKnownLocation.getLongitude());
             Marker currentMarker = mMap.addMarker(new MarkerOptions().position(currentLocation).title("Photo " + Integer.toString(imageCount)).icon(BitmapDescriptorFactory.fromBitmap(icon)));
-            currentMarker
             mMap.moveCamera(CameraUpdateFactory.newLatLng(currentLocation));
             currentMarker.setTag(bitmap);
         }
